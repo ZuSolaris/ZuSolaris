@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
 - 📫 How to reach me? @ ZuSolaris.personal@gmail.com
 
-## Links To My creations!
+## Links To my works!
 
 -[Projects](https://github.com/ZuSolaris?tab=projects)
+-[Repositories](https://github.com/ZuSolaris?tab=repositories)
+-[Packages](https://github.com/ZuSolaris?tab=packages)
 
 ## My Thoughts on a Growth Mindset
 
