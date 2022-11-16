@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&pause=1000&color=09EAF7&width=435&lines=I+AM..........+ZuSolaris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&pause=1000&color=0EF7D5&width=435&lines=I+AM.......ZuSolaris......Welcome!!!)](https://git.io/typing-svg)
 - 👀 I’m interested in programming and learning about HTML, CSS, and Javascript!
 - 🌱 I’m currently learning HTML, CSS, and JavaScript at Code Fellows at the time of this writing!
 - 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
