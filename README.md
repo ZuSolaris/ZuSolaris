@@ -6,14 +6,15 @@ Solaris Shield is Property of Zoe Gonzalez ©
 
 
 - 👀 I’m interested in programming and learning about HTML, CSS, and Javascript!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript at Code Fellows at the time of this writing!
+- 🌱 Heavily invested in NodeJS and React/Redux
 - 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
 - 📫 How to reach me? @ ZuSolaris.personal@gmail.com![ZuSolaris-Logo]
 
 
-## Links To my works!
+## Links and Networking!
 
 -[Projects](https://github.com/ZuSolaris?tab=projects)
+
 LinkedIn: https://www.linkedin.com/in/zusolaris/
 
 <!---
